@@ -26,11 +26,3 @@ body {
   font-size: 200px;
   color: #fff;
 }
-
-#numEstratti {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 50px;
-  color: #fff;
-}

@@ -31,9 +31,7 @@ var timerd = setInterval(function() {
 
 }, 1000);
 
-if (timerd !== 0) {
-  document.getElementById('numEstratti').innerHTML = numEstratti;
-}
+alert('Ricorda i numeri estratti ' + numEstratti);
 
 setTimeout(timer, 30000);
 
